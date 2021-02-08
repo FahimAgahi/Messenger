@@ -16,6 +16,6 @@ public class main {
         System.out.println(persons.get(0).getuName() + "  " + persons.get(0).getBirthDate());
         java.sql.Date D = new Date(2020,2,2);
         PersonDaoImpl imp = new PersonDaoImpl();
-
+// git is added
     }
 }
